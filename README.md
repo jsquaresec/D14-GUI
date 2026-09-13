@@ -1,13 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-banner.webp" alt="J2SEC approved banner" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-profile.webp" alt="J2SEC approved profile artwork" width="480" />
-
-</div>
-
 # D14-GUI
 
 A Windows GUI project maintained under the **J2SEC / JSquareSec** identity.
