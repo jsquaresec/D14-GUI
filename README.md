@@ -29,6 +29,10 @@ This repository contains the D14 Visual Studio solution and related source files
 
 ### Google Cloud
 
+#### Implement CI/CD Pipelines on Google Cloud
+**Google Cloud** • Issued September 2026  
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/c9b68674-0dad-4e4b-9c3b-044363d42e18/public_url)
+
 #### Develop and Secure APIs with Apigee X
 **Google Cloud** • Issued September 2026  
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/09523777-2ae2-40fd-9ba9-1cd800e31aff/public_url)
