@@ -103,6 +103,12 @@ This repository contains the D14 Visual Studio solution and related source files
 
 ### Hack The Box
 
+#### Script Kiddie
+**Hack The Box** • September 2026  
+Hack The Box Labs achievement earned through hands-on security labs and practical challenge completion.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/214)
+
 #### Linux Fundamentals
 **Hack The Box Academy** • September 2026  
 Hack The Box Academy achievement recognizing completion of Linux Fundamentals training.
