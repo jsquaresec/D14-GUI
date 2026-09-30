@@ -103,6 +103,12 @@ This repository contains the D14 Visual Studio solution and related source files
 
 ### Hack The Box
 
+#### Your First Battle
+**Hack The Box Academy** • September 2026  
+Hack The Box Academy achievement recognizing completion of **Your First Battle**.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://academy.hackthebox.com/achievement/badge/d64c699a-bc6c-11f1-9524-0affe7dfeb45)
+
 #### Web Requests
 **Hack The Box Academy** • September 2026  
 Hack The Box Academy achievement covering HTTP requests, request methods, headers, parameters, responses, and practical web communication fundamentals.
